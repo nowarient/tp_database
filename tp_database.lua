@@ -1,7 +1,7 @@
 local TeleportModule = {}
 
 TeleportModule.mapSpots = {
-    ["FunRooms"] = {
+    ["Funrooms"] = {
         Far = CFrame.new(-84.314712524414, -228.51164245605, 891.68713378906, -0.028415257111192, 0, -0.99959617853165, 0, 1.0000001192093, 0, 0.99959629774094, 0, -0.028415253385901)
     },
     ["ScorchingOutpost"] = {
